@@ -1,0 +1,16 @@
+[
+  {
+    "type": "folder",
+    "name":"yue",
+    "resource": [
+      {
+        "file": "1",
+        "path": "/assets/video/yue.mp4"
+      }
+    ]
+  },
+  {
+    "type": "file",
+    "path": "/assets/videos/di.mp4"
+  }
+]
