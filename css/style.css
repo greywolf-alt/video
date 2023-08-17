@@ -5,7 +5,7 @@
 .header > .logo {
   height: 100%;
 }
-.content {
+section.content {
   height: calc(100vh - 72px);
   display: flex;
 }
